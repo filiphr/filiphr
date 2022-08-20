@@ -6,6 +6,7 @@
 ### Hi there 👋
 
 I'm an Open Source enthusiast. I've been actively involved in Open Source from the begining of 2014, when I started contributing to various Open Source projects during my Master Studies. Since then, I have been actively involved with the [MapStruct](https://github.com/mapstruct/mapstruct) project where I am the project lead. I created and launched the [MapStruct IntelliJ plugin](https://github.com/mapstruct/mapstruct-idea). 
+I like to tinker with and explore different Open Source projects, this helps me learn new things and allows me to contribute back to the community.
 
 I am currently employed by [Flowable](https://github.com/flowable/flowable-engine).
 
